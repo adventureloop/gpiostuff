@@ -8,3 +8,4 @@
     print-adc.sh	prints an adc value
     watch-adc.sh	prints an adc value over time
     watch-tmp36.sh	prints the temperature from a tmp36 via an adc
+    blinkt.sh		controls leds on pimoroni blinkt which uses APA102 LEDs
